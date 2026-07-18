@@ -30,6 +30,8 @@ El modelo demostró un rendimiento sobresaliente en la tarea de clasificación, 
 * **Clase 0:** Precisión de 0.93 y Recall de 0.93 (F1-Score: 0.93)
 * **Clase 1:** Precisión de 0.92 y Recall de 0.92 (F1-Score: 0.92)
 
+![Imagen de Gráfico de Perdida y Precisión durante Entrenamiento](pasted-image%20(1).png)
+
 ![Imagen de Matriz de Confusión](pasted-image.png)
 
 **Análisis de la Matriz de Confusión:** Al observar la matriz de confusión, el modelo es altamente efectivo. De las 7,995 imágenes evaluadas:
