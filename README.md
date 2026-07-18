@@ -8,6 +8,9 @@ Para entrenar y evaluar el modelo, se utilizó el **"AI vs Human Generated Datas
 * **Fuente:** Kaggle
 * **Enlace:** [AI vs Human Generated Dataset - por alessandrasala79](https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset)
 
+## Requisitos
+Todos las librerías requeridas para el correcto funcionamiento del proyecto están en el archivo "environment.yml".
+
 ## Modelos Seleccionados y Justificación
 Se seleccionó el modelo pre-entrenado **ResNet50** (implementado a través de la librería PyTorch) para la tarea de clasificación de imágenes.
 * **Pertinencia:** ResNet50 es una Red Neuronal Convolucional (CNN) profunda que destaca en tareas de visión computacional.
